@@ -1,6 +1,7 @@
 # Ember-c3-shim
 
 [![Build Status](https://travis-ci.org/mike-north/ember-c3-shim.svg)](https://travis-ci.org/mike-north/ember-c3-shim)
+[![Code Climate](https://codeclimate.com/github/mike-north/ember-c3-shim/badges/gpa.svg)](https://codeclimate.com/github/mike-north/ember-c3-shim)
 
 An ember-cli shim for ![c3.js](http://c3js.org/), allowing it to be consumed as an ES6 module
 
