@@ -1,6 +1,12 @@
 # Ember-c3-shim
 
-This README outlines the details of collaborating on this Ember addon.
+An ember-cli shim for ![c3.js](http://c3js.org/), allowing it to be consumed as an ES6 module
+
+
+```js
+import c3 from 'c3';
+
+```
 
 ## Installation
 
