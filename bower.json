@@ -10,9 +10,13 @@
     "ember-resolver": "~0.1.18",
     "jquery": "^1.11.3",
     "loader.js": "ember-cli/loader.js#3.2.1",
-    "qunit": "~1.18.0"
+    "qunit": "~1.18.0",
+    "d3": "~3.5.6"
   },
   "devDependencies": {
     "c3": "~0.4.10"
+  },
+  "resolutions": {
+    "d3": "~3.5.6"
   }
 }
