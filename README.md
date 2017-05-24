@@ -1,5 +1,7 @@
 # Ember-c3-shim
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mike-north/ember-c3-shim.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/mike-north/ember-c3-shim.svg)](https://travis-ci.org/mike-north/ember-c3-shim)
 [![Code Climate](https://codeclimate.com/github/mike-north/ember-c3-shim/badges/gpa.svg)](https://codeclimate.com/github/mike-north/ember-c3-shim)
 
