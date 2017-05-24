@@ -36,11 +36,13 @@
     "ember-resolver": "^4.1.0",
     "ember-source": "^2.13.2",
     "eslint-plugin-ember-suave": "^1.0.0",
+    "greenkeeper-lockfile": "^1.2.1",
     "loader.js": "^4.0.1"
   },
   "keywords": [
     "ember-addon",
-    "d3", "c3"
+    "d3",
+    "c3"
   ],
   "dependencies": {
     "ember-cli-babel": "^6.1.0"
