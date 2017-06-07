@@ -1,3 +1,4 @@
+if (typeof FastBoot === 'undefined') {
 (function() {
   /* globals define, c3 */
 
@@ -11,3 +12,4 @@
 
   generateModule('c3', { 'default': c3 });
 })();
+}
